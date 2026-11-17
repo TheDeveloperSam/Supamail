@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/900x240/111827/FFFFFF/png?text=Supermail&font=raleway">
+    <source media="(prefers-color-scheme: light)" srcset="https://placehold.co/900x240/111827/FFFFFF/png?text=Supamail&font=raleway">
     <img src="https://placehold.co/900x240/F9FAFB/111827/png?text=Supermail&font=raleway" alt="Supermail — Email API for developers" width="100%">
   </picture>
 
